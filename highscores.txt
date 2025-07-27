@@ -1,0 +1,6 @@
+Daniel:100
+Simon:54
+Linda:3
+Bauer:3
+#diata:3
+diata:2
